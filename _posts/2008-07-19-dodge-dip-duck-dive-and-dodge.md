@@ -1,0 +1,25 @@
+---
+id: 27
+title: Dodge, Dip, Duck, Dive, and Dodge
+date: 2008-07-19T03:53:00+00:00
+
+layout: post
+permalink: /2008/07/19/dodge-dip-duck-dive-and-dodge/
+dsq_thread_id:
+  - "6032922815"
+tags:
+  - 2008-st-louis-mi
+---
+<p class="mobile-photo">
+  <a href="http://3.bp.blogspot.com/_Sj3b3KLPiGQ/SIIGv-jPNOI/AAAAAAAAAJM/j-PK9lOxGTI/s1600-h/bm-image-759377.jpe"><img id="BLOGGER_PHOTO_ID_5224745939017610466" alt="" src="http://3.bp.blogspot.com/_Sj3b3KLPiGQ/SIIGv-jPNOI/AAAAAAAAAJM/j-PK9lOxGTI/s320/bm-image-759377.jpe" border="0" /></a>
+</p>
+
+Today was the last day on our worksites and it was a successful one for every FPC camper. Christy&#8217;s resident was certainly moved by their crews presence during the week. She kept calling the crew members her babies and telling them she couldn&#8217;t wait to get the invites to their weddings. Jackie&#8217;s crew took her resident some flowers which he immediately planted. He mentioned how he felt as if they had become his family throughout the week. Rachel and Andrew&#8217;s resident was clearly moved when their crews picked up some common household items he desperately needed. A tough man that was wearing his heart on his sleeve by Friday afternoon. Lauren&#8217;s site finished the week with four crews on site and they were able to work harmoniously and complete their tasks. On Tuesday, when Dan was asked by Group Workcamps if his crew would finish by Friday, his response was. &#8220;yeah, next Friday&#8230;&#8221; The job started off being way too large for a single crew to complete in five days but with the help of Jeff from the Center for Aging who showed up at 5AM one morning to help shovel shingles, and Lynn&#8217;s crew who brought 6 additional hard workers, they completed their seemingly impossible task today.
+
+Tonight&#8217;s evening program was quite powerfull because many of the residents were in attendence. It was exciting for us to see them one last time and I think many of them were in shock to see the sheer number of youth that have decended upon their small town.
+
+Following the program was the finals for the dodgeball tournament. Leigh has been talking about being in the dodgeball tournament for months and when it did not appear that one once going to take place, she took it upon herself to organize one and it went off without a hitch. The tournament became the talk of the camp and tonight&#8217;s final pitted the Red Shirt Staff against the camper champions. Dan was lucky enough to play with the Red Shirts who won game one of the best of three series but then proceeded to lose the next two games&#8230; The real event was taking place in the stands as the school&#8217;s macot, a shark, made a guest appearance and the youth from Iowa showed up in some crazy costumes which certainly brought a smile to everyone&#8217;s face.
+
+While some of the projects may not have been completed, they will be finished by the local community. However, the work done to the homes in only part of what is being done here this week. The same sense of hope that was given to Dan&#8217;s crew by Jeff on Wednesday morning is what this camp is giving to the city of St. Louis, MI. Many of the residents have express an interest in using this weeks work as a starting point for further work to be done by themselves. They seem to have a sense of self and a pride for their homes that may not have existed a mere 5 days ago and that is part of the true lasting impression we will leave with the St. Louis, MI community.
+
+Tomorrow we will depart from camp, have a fun afternoon at a surprise location, and spend the night in the greater Cleveland area. I think we all leave with a better understanding of ourselves and with a spirit to return home and continue to Love Out Loud. We&#8217;ll be sure to talk to you tomorrow so until then, Keep the Faith!

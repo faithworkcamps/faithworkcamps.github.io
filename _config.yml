@@ -1,0 +1,77 @@
+# Website settings
+baseurl: "/"
+url: "http://faithworkcamps.github.io"
+
+# Internal nav
+nav:
+  main:
+    weblog: "/writing"
+    photos: "/photos"
+    devotions: "/devotions"
+    files: "/files"
+  writing:
+    all: "/writing"
+    tags: "/writing/tags"
+    rss: "/feed.xml"
+
+# Bio settings
+name: "Faith Workcamps"
+description: "Building faithful youth."
+thumbnail_path: "group-medium.jpg"
+# bitcoin_address: "1G8qEUVUS8BBSwSWNM4EWR622vUpGtee66"
+# hello_startup_url: "http://www.hello-startup.net/"
+# website_repo_url: "https://github.com/brikis98/yevgeniy-brikman-homepage"
+# atomic_squirrel_url: "http://www.atomic-squirrel.net/"
+# gruntwork_url: "http://www.gruntwork.io/"
+# terraform_up_and_running_url: "http://www.terraformupandrunning.com/"
+# terraform_up_and_running_code_url: "https://github.com/brikis98/terraform-up-and-running-code"
+
+# URLs
+contact_urls:
+  twitter:
+    url: "https://twitter.com/faithworkcamps"
+    label: "Twitter"
+    icon: "twitter-square"
+    username: "@faithworkcamps"
+#  linkedin:
+#    url: "https://www.linkedin.com/in/jbrikman"
+#    label: "LinkedIn"
+#    icon: "linkedin-square"
+  facebook:
+    url: "https://www.facebook.com/groups/32770546126/"
+    label: "Facebook"
+    icon: "facebook-square"
+#  google:
+#    url: "https://plus.google.com/+YevgeniyBrikman/"
+#    label: "Google+"
+#    icon: "google-plus-square"
+#  slideshare:
+#    url: "https://www.slideshare.net/brikis98"
+#    label: "SlideShare"
+#    icon: "slideshare"
+  github:
+    url: "https://github.com/faithworkcamps/"
+    label: "GitHub"
+    icon: "github-square"
+#  email:
+#    url: "mailto:jim@ybrikman.com"
+#    label: "Email"
+#    value: "jim@ybrikman.com"
+#    icon: "envelope-square"
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/writing/page:num"
+permalink: "/writing/:year/:month/:day/:title/"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed
+highlighter: rouge
+timezone: 'America/New_York'
+repository: faithworkcamps/faithworkcamps.github.io
+
+# Plugins (GitHub Pages only support a few)
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-paginate

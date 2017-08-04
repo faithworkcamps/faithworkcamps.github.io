@@ -1,0 +1,23 @@
+---
+id: 24
+title: 'Just a little off the top&#8230;part deux'
+date: 2008-07-16T03:12:00+00:00
+
+layout: post
+permalink: /2008/07/16/just-a-little-off-the-top-part-deux/
+dsq_thread_id:
+  - "6032922817"
+tags:
+  - 2008-st-louis-mi
+---
+Another day down and I think we&#8217;re really looking forward to our half day of work tomorrow&#8230; The cafeteria solved their coffee problems and there was plenty available this morning! Meanwhile, at the sites most crews are starting to see some results. In fact, Mark&#8217;s crew finished at their site today and will be reassigned to help another crew in the morning. Lynn&#8217;s crew had supplies delivered today but all of the plywood was smashed. Fortunately, the male youth took it upon themselves to solve the problem and her crew did not have a wasted day. Lauren has taken a struggling youth on her crew under her wing and got her on the roof today. They&#8217;re both a little bruised and battered from the shingles but otherwise in good shape! Lisa&#8217;s resident is absolutely thrilled to have so many young and vibrant youth in her house and was able to express some of those emotions to the crews at her home today. Jayme&#8217;s crew is building a wheelchair ramp for their resident&#8217;s son who is unable to move his legs. The parents have not been at the site yet because they are both working during the day but hope to take some time off later in the week. The grandmother also lives with the family and has been very supportive of the crew. Jackie&#8217;s resident, Art who likes art, is so excited to have the crew at his home that he insist of cooking lunch for them all week. Today was venison burgers which sounds pretty tasty. Art found a cross in the back yard the day the crew arrived at his home and presented it to them today. Jackie&#8217;s crew is going to find a way to permanently build this cross into the portch they are constructing.
+
+The campers received a package from Emily Cole today! She was kind enough to make bracelets and attached an accompanying scripture verse for each camper. We are all wearing them now and I&#8217;m sure a few of us will still be wearing them when we get to camp next summer. Thank you Emily for the time, energy, and love you put into each of the bracelets and we certainly miss your presence.
+
+During tonight&#8217;s evening program, Kelly read the scripture to the entire camp. Today&#8217;s lesson focused on Jesus washing His disciple&#8217;s feet. We had the opportunity to wash the feet of our fellow crew members and it was a fairly powerful moment. Interestingly enough, the last time we did this was in 2002 when we were just down the road in Lansing, MI. It is somewhat awkward to put yourself in the vulnerable position of being served and I&#8217;m sure many of our residents feel this week like we felt tonight.
+
+Following tonight&#8217;s evening program, Tyler could not resist the urge to turn his head shaving last year into a yearly ritual. Thank goodness he looks good in this &#8220;hair&#8221; style! His enthusiasm is contagous but we are hoping the head shaving is not&#8230;
+
+Team &#8220;If you ain&#8217;t dutch, you ain&#8217;t much&#8221; was back with a vengene this year with a new team member and a new name. Now called, &#8220;From the Top,&#8221; and after replacing the absent Papa H with Lisa, Platte, Justin, Diane, and Dan discarded a team of young basketball studs in double overtime. After the 15 minute game, Lisa has an injured finger, Justin had a scraped knee, and Dan&#8217;s back was in knots&#8230; Not bad for a team with an average age 3 times that of their foe. &#8220;From the Top&#8221; had a spectacular cheering section but will need a miracle to get past Thursdays 2nd round&#8230;
+
+As was mentioned earlier, we have a half day of work tomorrow and we&#8217;ll take advantage of the time off to recharge our batteries for the remainder of the week. We hope you are all well back in good &#8216;ole PA and across the globe. We should have some interesting things to post tomorrow night so until then, keep the Faith!

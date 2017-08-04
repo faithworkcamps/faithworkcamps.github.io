@@ -1,0 +1,26 @@
+---
+id: 15
+title: Go big or go home!
+date: 2007-07-23T03:54:00+00:00
+
+layout: post
+permalink: /2007/07/23/go-big-or-go-home/
+thumbnail_path: 2007/07/ironcross.jpg
+tags:
+  - 2007-vandalia-oh
+---
+As we prepare for our first night's sleep at the Butler/Vandalia High School, home of the Aviators, the guy's room has a problem. One of the overhead flourescent lights is on a different circuit and we are not able to turn it off. If we all were not so exhausted, sleeping would be nearly impossible. Platte already seems un-phased by the light&#8230; Good news, the janitor is on his way to remove the bulbs and eliminate this problem. 
+
+The room the guys are staying in is rather small. When we first arrived, we were told that 8 others would be staying with us and it would have been very difficult to fit everyone in the room. Fortunately, that group was moved to a different room and the guys have been able to spread out. The girls have their own room as well which is quite large and carpeted! We will be holding all of our evening devotions in their room this week. We hope you will all be joining us in using the daily devotion guide that can be found at the link on the left side of this page.
+
+There were a lot of workcamp happenings today. We left the gracious Bethel Presbyterian church this morning around 9 A.M. and traveled for an hour and a half to Vandalia. After grabbing lunch and stopping by Target to pick up all the items we forgot to pack, we checked into the school. The community has been very involved in setting up this camp, more so than any prior year. They have set up movie nights, slip and slides, ice cream parties, etc. This evening's dinner was provided by the local Rotary club and we had a cookout with a DJ and all! Earlier this week, the Rotary also arranged to have all the houses power washed to eliminate heavy scraping before painting. This should save the campers a lot of time and should greatly increase efficiency.
+
+Each year, all churches are asked to complete a project and bring it to camp. This year's project was to build a cross out of "old stuff" that represents our home communities. The cross could be no taller than 4 feet. Local businesses in the Lehigh Valley donated I-beams and sheet metal to help us create an I-beam cross. Fear not, we will post pictures when we return from camp. At today's first program, each church presented their cross to the camp. Will was to be our representative, go up on stage, and stand behind our cross. All 12 church crosses were on the stage and unfortunately, Will stood behind the wrong cross. However, he did not stand in front of another church's cross, he stood in front of the 8 foot tall cross that is on the Group Workcamp stage year after year. In Will&#8217;s defense, he knew that we don't mess around when it comes to these projects and he chose to stand by the cross that dwarfed all others! Eventually, the situation was rectified and Will found the Faith cross.
+
+The second evening service was started by Kelly and Emily. They put together a skit about renovation and saluted the workcamp volunteers. It was very cleverly done! Mark then read today's scripture verse and the rest of the youth helped lead one of the workcamp songs. Everyone did a fantastic job and it was great to see so many of our youth taking leadership roles early in the week. Speaking and standing in front of 400 people can certainly be intimidating and they all handed themselves very well. Later in the program, we all met our crews for the week. 
+
+Last fall Justin turned 21 years of age. That makes him a first time adult leader. He attended his first adult meeting today and it was great to take a step back and think about how he has grown from these workcamp experiences. Our thanks go out to Justin for his continuing service.
+
+Tyler seems to be having a really great experience so far. We have been very impressed with his willingness to jump into pretty much every situation. Chocolate milk chugging contest have been a workcamp staple for years and this year there was no chocolate milk in the cafeteria. Luckily, a vending machine containing chocolate milk was found. Tyler jumped right, grabbed a milk, spilled half of it on his shirt, and won the contest. What determination! Hopefully there will be more milk tomorrow and someone can dethrone the champ!
+
+A highlight today was receiving a text message from Stephanie Lillegard who is serving with the Peace Corp in the Ukraine. This is the first year since 1998 that Stephanie has not attended workcamp. Her behind the scenes work for this program and her presence at camp have been crucial to its success for years. She is greatly missed and in her text message, she wanted to let us know that our silent football punishments were not harsh enough&#8230; We will rectify this situation tomorrow! Until then, Keep the Faith!

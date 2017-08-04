@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Faith Workcamps: Files"
+header_title: Files
+include_header: files_header.html
+nav_item: files
+---
+
+{% for project in site.data.files %}
+  {% include project-outline.html project=project %}
+{% endfor %}

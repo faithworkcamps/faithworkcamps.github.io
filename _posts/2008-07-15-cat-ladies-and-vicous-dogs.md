@@ -1,0 +1,21 @@
+---
+id: 23
+title: Cat ladies and vicous dogs
+date: 2008-07-15T03:31:00+00:00
+
+layout: post
+permalink: /2008/07/15/cat-ladies-and-vicous-dogs/
+dsq_thread_id:
+  - "6032922755"
+tags:
+  - 2008-st-louis-mi
+---
+We had a rough morning because the cafeteria ran out of coffee before all of our adult leaders had a chance to get some &#8230; The good news is that there were very few snags otherwise! After breakfast, we had a morning program with our buddy Doug Fields whose message tied in very well with our Indiana Jones devotion guides.
+
+Following the service, we all got in our vans and headed off to our sites for the first time. Monday is always an interesting day as we meet our residents and assess the job site that we had read about the day before. Will&#8217;s crew accidentally followed the directions to the hospital instead of to their work site. We had all been warned only minutes earlier that we should NOT do this. An hour later Will&#8217;s crew arrived at their site which is only five blocks from the school&#8230;
+
+Lauren&#8217;s crew is working on repairing a roof. She was the only female in her double crew that was brave enough to even step foot on top of that roof. Christy&#8217;s resident is a huge &#8220;collector&#8221; of cats. Christy was unable to guess as to how many cats are living inside because there are so many, however, she did say she was unable to go inside without wearing a mask due to the smell&#8230; Rachel and Andrew are on a double crew together and they had been warned about a vicous pitbull at their site. The pitbull exist but he is far from vicous. Unless you consider licking and high fiving to be vicous acts&#8230; Leigh has an 80 year old resident who has devoted her life to helping others in need as she has continually taken in older mentally challenged men. It sounded as though her crew was excited to put their resident on the flip side of that kindness. Jackie spent her first day on a workcamp site wielding a slege hammer and removing a concrete front porch. Not too shabby! Lisa&#8217;s resident is a 74 year old woman who lives in a home that has been in the family for generations. She was fearful that she was going to be forced to move to an apartment because she could not afford to make the necessary repairs. Lisa&#8217;s crew was an &#8220;answer to her prayers&#8221; and because of their involvement, she will be able to stay in the home.
+
+In tonight&#8217;s evening program there was a large FPC presence. Kelly, Mark, and Will all participated in the evening drama and Jayme played the drums during the praise songs. They all did a phenominal job and we hope to see a lot more of them as the week goes on! Today was also the beginning of care cards here at camp. Care cards are small, positive notes that you can leave to fellow campers by writing them down and placing them in an evelope designate for each camper. At the end of the week, the campers will get their care cards to read as a reminder of all the positive things that have happened through out the week.. It&#8217;s a great way to keep the workcamp spirit alive long after camp has ended.
+
+Tomorrow we will head back to our sites and continue to make progress on the homes as well as our spiritual journeys. Lynn&#8217;s crew might even finish at her site by the late afternoon. Please keep us in your prayers and we&#8217;ll be here keepin&#8217; the faith!
