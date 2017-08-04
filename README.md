@@ -2,7 +2,7 @@
 
 This is the code for the [Faith Workcamps Home Page](http://www.faithworkcamps.com).
 
-![Faith Workcamps Home Page Screenshot](/assets/img/screenshots/ybrikman-homepage-screenshot.png)
+![Faith Workcamps Home Page Screenshot](/assets/img/screenshots/faithworkcamps-homepage-screenshot.png)
 
 Forks and pull requests are welcome!
 
