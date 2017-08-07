@@ -1,10 +1,7 @@
 ---
-id: 36
 title: We Don't Have a Bathroom but We Have Sheetz
 date: 2009-07-28T03:57:00+00:00
-
 layout: post
-permalink: /2009/07/28/we-dont-have-a-bathroom-but-we-have-sheetz/
 tags:
   - 2009-martinsburg-wv
 ---

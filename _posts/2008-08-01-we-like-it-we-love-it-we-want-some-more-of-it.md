@@ -1,12 +1,7 @@
 ---
-id: 29
 title: We like it, We love it, We want some more of it!
 date: 2008-08-01T03:29:00+00:00
-
 layout: post
-permalink: /2008/08/01/we-like-it-we-love-it-we-want-some-more-of-it/
-dsq_thread_id:
-  - "6032922843"
 tags:
   - 2008-st-louis-mi
 ---

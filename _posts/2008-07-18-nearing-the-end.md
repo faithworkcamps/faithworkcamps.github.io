@@ -1,12 +1,7 @@
 ---
-id: 26
 title: Nearing the End
 date: 2008-07-18T03:23:00+00:00
-
 layout: post
-permalink: /2008/07/18/nearing-the-end/
-dsq_thread_id:
-  - "6032922757"
 tags:
   - 2008-st-louis-mi
 ---

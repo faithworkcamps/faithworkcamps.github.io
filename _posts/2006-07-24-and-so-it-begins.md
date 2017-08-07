@@ -1,10 +1,7 @@
 ---
-id: 10
 title: 'And so it begins&#8230;'
 date: 2006-07-24T03:49:00+00:00
-
 layout: post
-permalink: /2006/07/24/and-so-it-begins/
 thumbnail_path: 2006/07/MA103_02.jpg
 tags:
   - 2006-somerville-tn

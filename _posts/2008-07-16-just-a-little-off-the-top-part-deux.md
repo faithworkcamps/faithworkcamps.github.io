@@ -1,12 +1,7 @@
 ---
-id: 24
 title: 'Just a little off the top&#8230;part deux'
 date: 2008-07-16T03:12:00+00:00
-
 layout: post
-permalink: /2008/07/16/just-a-little-off-the-top-part-deux/
-dsq_thread_id:
-  - "6032922817"
 tags:
   - 2008-st-louis-mi
 ---

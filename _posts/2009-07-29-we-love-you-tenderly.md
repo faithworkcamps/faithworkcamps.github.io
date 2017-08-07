@@ -1,10 +1,7 @@
 ---
-id: 37
 title: '&#8220;We Love You Tenderly&#8221;'
 date: 2009-07-29T04:01:00+00:00
-
 layout: post
-permalink: /2009/07/29/we-love-you-tenderly/
 tags:
   - 2009-martinsburg-wv
 ---

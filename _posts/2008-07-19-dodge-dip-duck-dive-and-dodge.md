@@ -1,19 +1,10 @@
 ---
-id: 27
 title: Dodge, Dip, Duck, Dive, and Dodge
 date: 2008-07-19T03:53:00+00:00
-
 layout: post
-permalink: /2008/07/19/dodge-dip-duck-dive-and-dodge/
-dsq_thread_id:
-  - "6032922815"
 tags:
   - 2008-st-louis-mi
 ---
-<p class="mobile-photo">
-  <a href="http://3.bp.blogspot.com/_Sj3b3KLPiGQ/SIIGv-jPNOI/AAAAAAAAAJM/j-PK9lOxGTI/s1600-h/bm-image-759377.jpe"><img id="BLOGGER_PHOTO_ID_5224745939017610466" alt="" src="http://3.bp.blogspot.com/_Sj3b3KLPiGQ/SIIGv-jPNOI/AAAAAAAAAJM/j-PK9lOxGTI/s320/bm-image-759377.jpe" border="0" /></a>
-</p>
-
 Today was the last day on our worksites and it was a successful one for every FPC camper. Christy&#8217;s resident was certainly moved by their crews presence during the week. She kept calling the crew members her babies and telling them she couldn&#8217;t wait to get the invites to their weddings. Jackie&#8217;s crew took her resident some flowers which he immediately planted. He mentioned how he felt as if they had become his family throughout the week. Rachel and Andrew&#8217;s resident was clearly moved when their crews picked up some common household items he desperately needed. A tough man that was wearing his heart on his sleeve by Friday afternoon. Lauren&#8217;s site finished the week with four crews on site and they were able to work harmoniously and complete their tasks. On Tuesday, when Dan was asked by Group Workcamps if his crew would finish by Friday, his response was. &#8220;yeah, next Friday&#8230;&#8221; The job started off being way too large for a single crew to complete in five days but with the help of Jeff from the Center for Aging who showed up at 5AM one morning to help shovel shingles, and Lynn&#8217;s crew who brought 6 additional hard workers, they completed their seemingly impossible task today.
 
 Tonight&#8217;s evening program was quite powerfull because many of the residents were in attendence. It was exciting for us to see them one last time and I think many of them were in shock to see the sheer number of youth that have decended upon their small town.

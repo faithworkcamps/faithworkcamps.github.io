@@ -1,10 +1,7 @@
 ---
-id: 14
 title: 'Here we go again&#8230;'
 date: 2007-07-22T03:58:00+00:00
-
 layout: post
-permalink: /2007/07/22/here-we-go-again/
 thumbnail_path: 2007/07/IMG_0493.jpg
 tags:
   - 2007-vandalia-oh

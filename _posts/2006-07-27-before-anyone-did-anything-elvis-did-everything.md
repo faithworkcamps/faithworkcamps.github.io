@@ -1,10 +1,7 @@
 ---
-id: 12
 title: Before anyone did anything, Elvis did everything.
 date: 2006-07-27T03:14:00+00:00
-
 layout: post
-guid: http://faithworkcamps.com/blog/?p=12
 thumbnail_path: 2006/07/DSCF0248.jpg
 tags:
   - 2006-somerville-tn

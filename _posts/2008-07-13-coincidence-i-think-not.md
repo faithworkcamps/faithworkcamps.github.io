@@ -1,12 +1,7 @@
 ---
-id: 21
 title: 'Coincidence, I think not!'
 date: 2008-07-13T03:13:00+00:00
-
 layout: post
-permalink: /2008/07/13/coincidence-i-think-not/
-dsq_thread_id:
-  - "6032922781"
 tags:
   - 2008-st-louis-mi
 ---

@@ -1,10 +1,7 @@
 ---
-id: 31
 title: 'Cookie Sale &#8211; December 21st'
 date: 2008-11-14T22:46:00+00:00
-
 layout: post
-permalink: /2008/11/14/cookie-sale-december-21st/
 tags:
   - 2008-st-louis-mi
 ---

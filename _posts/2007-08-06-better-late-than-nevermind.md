@@ -1,50 +1,7 @@
 ---
-id: 20
 title: 'Better late than&#8230; nevermind'
 date: 2007-08-06T21:58:00+00:00
-
 layout: post
-guid: http://faithworkcamps.com/blog/?p=20
-permalink: /2007/08/06/better-late-than-nevermind/
-blogger_blog:
-  - faithworkcamps.blogspot.com
-  - faithworkcamps.blogspot.com
-blogger_author:
-  - Dan Hembergerhttp://www.blogger.com/profile/05635603750920675524noreply@blogger.com
-  - Dan Hembergerhttp://www.blogger.com/profile/05635603750920675524noreply@blogger.com
-blogger_permalink:
-  - /2007/08/that-rug-really-tied-room-together.html
-  - /2007/08/that-rug-really-tied-room-together.html
-info_box_link:
-  - ""
-  - ""
-other_media:
-  - http://faithworkcamps.comassets/img/2007/08/IMG_0509.jpg
-  - http://faithworkcamps.comassets/img/2007/08/IMG_0509.jpg
-other_media_effect:
-  - "0"
-  - "0"
-video_link:
-  - ""
-  - ""
-main_video:
-  - ""
-  - ""
-video_hosted:
-  - ""
-  - ""
-video_hosted_ogv:
-  - ""
-  - ""
-meta_title:
-  - ""
-  - ""
-meta_keywords:
-  - ""
-  - ""
-meta_description:
-  - ""
-  - ""
 thumbnail_path: 2007/08/IMG_0509.jpg
 tags:
   - 2007-vandalia-oh

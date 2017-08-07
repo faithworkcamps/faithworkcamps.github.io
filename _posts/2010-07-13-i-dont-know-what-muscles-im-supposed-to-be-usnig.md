@@ -1,12 +1,7 @@
 ---
-id: 101
 title: 'I don&#8217;t know what muscles I&#8217;m supposed to be usnig'
 date: 2010-07-13T23:37:41+00:00
-
 layout: post
-permalink: /2010/07/13/i-dont-know-what-muscles-im-supposed-to-be-usnig/
-dsq_thread_id:
-  - "6033321713"
 tags:
   - 2010-savannah-ga
 image: /assets/images/2010/07/l_500_375_07BCA48C-E105-4345-9E9B-2B5A31005350.jpeg

@@ -1,9 +1,7 @@
 ---
-id: 482
 title: You&'re So Close You're Practically Sniffing the Artwork
 date: 2011-07-17T01:37:27+00:00
 layout: post
-permalink: /2011/07/17/youre-so-close-youre-practically-sniffing-the-artwork/
 thumbnail_path: 2014/06/youre-so-close-youre-practically.jpg
 tags:
   - 2011-middletown-oh

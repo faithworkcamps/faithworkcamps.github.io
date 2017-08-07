@@ -1,9 +1,7 @@
 ---
-id: 475
 title: I Wish I Could Swim in the Sky and Use the Clouds as Floaties
 date: 2011-07-15T00:20:53+00:00
 layout: post
-permalink: /2011/07/15/i-wish-i-could-swim-in-the-sky-and-use-the-clouds-as-floaties/
 thumbnail_path: 2014/06/i-wish-i-could-swim-in-the-sky-a.jpg
 tags:
   - 2011-middletown-oh

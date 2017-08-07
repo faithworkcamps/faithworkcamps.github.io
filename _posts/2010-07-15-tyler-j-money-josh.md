@@ -1,12 +1,7 @@
 ---
-id: 109
 title: Tyler + J-Money = Josh
 date: 2010-07-15T23:22:35+00:00
-
 layout: post
-permalink: /2010/07/15/tyler-j-money-josh/
-dsq_thread_id:
-  - "6033319967"
 tags:
   - 2010-savannah-ga
 ---

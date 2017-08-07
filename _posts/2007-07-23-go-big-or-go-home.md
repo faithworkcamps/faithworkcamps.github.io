@@ -1,10 +1,7 @@
 ---
-id: 15
 title: Go big or go home!
 date: 2007-07-23T03:54:00+00:00
-
 layout: post
-permalink: /2007/07/23/go-big-or-go-home/
 thumbnail_path: 2007/07/ironcross.jpg
 tags:
   - 2007-vandalia-oh

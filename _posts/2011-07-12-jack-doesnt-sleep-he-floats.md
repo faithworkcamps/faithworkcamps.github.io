@@ -1,9 +1,7 @@
 ---
-id: 462
 title: '&#8220;Jack Doesn&#8217;t Sleep, He Floats&#8221;'
 date: 2011-07-12T23:44:30+00:00
 layout: post
-permalink: /2011/07/12/jack-doesnt-sleep-he-floats/
 thumbnail_path: 2014/06/jack-doesnt-sleep-he-floats.jpg
 tags:
   - 2011-middletown-oh

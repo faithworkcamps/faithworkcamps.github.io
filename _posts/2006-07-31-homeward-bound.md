@@ -1,10 +1,7 @@
 ---
-id: 13
 title: Homeward bound!
 date: 2006-07-31T01:03:00+00:00
-
 layout: post
-permalink: /2006/07/31/homeward-bound/
 thumbnail_path: 2006/07/DSCF0289.jpg
 tags:
   - 2006-somerville-tn

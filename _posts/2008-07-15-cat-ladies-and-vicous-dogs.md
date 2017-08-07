@@ -1,12 +1,7 @@
 ---
-id: 23
 title: Cat ladies and vicous dogs
 date: 2008-07-15T03:31:00+00:00
-
 layout: post
-permalink: /2008/07/15/cat-ladies-and-vicous-dogs/
-dsq_thread_id:
-  - "6032922755"
 tags:
   - 2008-st-louis-mi
 ---

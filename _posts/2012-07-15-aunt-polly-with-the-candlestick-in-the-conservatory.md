@@ -1,9 +1,7 @@
 ---
-id: 742
 title: Aunt Polly, with the Candlestick, in the Conservatory
 date: 2012-07-15T16:04:34+00:00
 layout: post
-permalink: /2012/07/15/aunt-polly-with-the-candlestick-in-the-conservatory/
 thumbnail_path: 2014/06/aunt-polly-with-the-candlestick.jpg
 tags:
   - 2012-sutton-nh

@@ -1,9 +1,7 @@
 ---
-id: 458
 title: '&#8220;Everyone Poops&#8221;'
 date: 2011-07-12T00:36:31+00:00
 layout: post
-permalink: /2011/07/12/everyone-poops/
 thumbnail_path: 2014/06/everyone-poops.jpg
 tags:
   - 2011-middletown-oh

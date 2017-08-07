@@ -1,12 +1,7 @@
 ---
-id: 28
 title: 'This is the end'
 date: 2008-07-20T19:08:00+00:00
-
 layout: post
-permalink: /2008/07/20/this-is-the-end/
-dsq_thread_id:
-  - "6032922786"
 tags:
   - 2008-st-louis-mi
 ---

@@ -1,10 +1,7 @@
 ---
-id: 33
 title: Adult Leader Expectation Video
 date: 2009-04-03T19:19:00+00:00
-
 layout: post
-permalink: /2009/04/03/adult-leader-expectation-video/
 tags:
   - 2009-martinsburg-wv
 ---

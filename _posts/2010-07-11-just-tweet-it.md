@@ -1,10 +1,7 @@
 ---
-id: 88
 title: Just Tweet It
 date: 2010-07-11T00:13:02+00:00
-
 layout: post
-permalink: /2010/07/11/just-tweet-it/
 tags:
   - 2010-savannah-ga
 image: /assets/images/2010/07/l_1600_1200_16B5A85D-30B2-42FE-A3B1-63A291CD72251.jpeg

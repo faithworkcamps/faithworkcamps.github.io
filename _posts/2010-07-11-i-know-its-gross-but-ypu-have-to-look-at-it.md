@@ -1,12 +1,7 @@
 ---
-id: 91
 title: 'I know it&#8217;s gross, but you have to look at it&#8230;'
 date: 2010-07-11T21:48:34+00:00
-
 layout: post
-permalink: /2010/07/11/i-know-its-gross-but-ypu-have-to-look-at-it/
-dsq_thread_id:
-  - "6033323999"
 tags:
   - 2010-savannah-ga
 image: /assets/images/2010/07/l_1600_1200_DEC3D3E6-9E7B-4203-87C2-DB988A8FAC9F.jpeg

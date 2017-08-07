@@ -1,12 +1,7 @@
 ---
-id: 111
 title: 'You&#8217;re hitting him, of course he feels it.'
 date: 2010-07-17T01:06:16+00:00
-
 layout: post
-permalink: /2010/07/17/youre-hitting-him-of-course-he-feels-it/
-dsq_thread_id:
-  - "341268584"
 thumbnail_path: 2010/07/thursdayclosing-8.jpg
 tags:
   - 2010-savannah-ga

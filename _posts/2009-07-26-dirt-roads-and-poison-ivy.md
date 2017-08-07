@@ -1,10 +1,7 @@
 ---
-id: 34
 title: Dirt Roads and Poison Ivy
 date: 2009-07-26T04:30:00+00:00
-
 layout: post
-permalink: /2009/07/26/dirt-roads-and-poison-ivy/
 tags:
   - 2009-martinsburg-wv
 ---

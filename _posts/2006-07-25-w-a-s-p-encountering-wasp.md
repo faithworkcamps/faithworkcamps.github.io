@@ -1,10 +1,7 @@
 ---
-id: 11
 title: 'W.A.S.P. encountering wasp&#8230;'
 date: 2006-07-25T03:20:00+00:00
-
 layout: post
-permalink: /2006/07/25/w-a-s-p-encountering-wasp/
 thumbnail_path: 2006/07/IMG_0010.jpg
 tags:
   - 2006-somerville-tn

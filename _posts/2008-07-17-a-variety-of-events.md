@@ -1,10 +1,7 @@
 ---
-id: 25
 title: A Variety of Events
 date: 2008-07-17T03:46:00+00:00
-
 layout: post
-permalink: /2008/07/17/a-variety-of-events/
 tags:
   - 2008-st-louis-mi
 ---

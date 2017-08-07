@@ -1,12 +1,7 @@
 ---
-id: 16
 title: 'If you ain&#8217;t Dutch, you ain&#8217;t much'
 date: 2007-07-24T03:34:00+00:00
-
 layout: post
-permalink: /2007/07/24/if-you-aint-dutch-you-aint-much/
-dsq_thread_id:
-  - "6032922719"
 thumbnail_path: 2007/07/07OH03_1118.jpg
 tags:
   - 2007-vandalia-oh

@@ -1,10 +1,7 @@
 ---
-id: 22
 title: Welcome to St. Louis...Michigan
 date: 2008-07-14T03:52:00+00:00
-
 layout: post
-permalink: /2008/07/14/welcome-to-st-louis-michigan/
 tags:
   - 2008-st-louis-mi
 ---

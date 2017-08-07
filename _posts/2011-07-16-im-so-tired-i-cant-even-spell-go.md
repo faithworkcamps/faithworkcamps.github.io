@@ -1,9 +1,7 @@
 ---
-id: 478
 title: '&#8220;I&#8217;m So Tired I Can&#8217;t Even Spell Go&#8221;'
 date: 2011-07-16T01:18:20+00:00
 layout: post
-permalink: /2011/07/16/im-so-tired-i-cant-even-spell-go/
 thumbnail_path: 2014/06/im-so-tired-i-cant-even-spell-go.jpg
 tags:
   - 2011-middletown-oh

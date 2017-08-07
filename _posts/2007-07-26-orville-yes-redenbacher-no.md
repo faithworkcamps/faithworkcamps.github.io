@@ -1,10 +1,7 @@
 ---
-id: 18
 title: Orville yes, Redenbacher no!
 date: 2007-07-26T03:36:00+00:00
-
 layout: post
-permalink: /2007/07/26/orville-yes-redenbacher-no/
 thumbnail_path: 2007/07/07OH03_0905.jpg
 tags:
   - 2007-vandalia-oh

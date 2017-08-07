@@ -1,10 +1,7 @@
 ---
-id: 17
 title: 'Just a little off the top&#8230;'
 date: 2007-07-25T03:44:00+00:00
-
 layout: post
-permalink: /2007/07/25/just-a-little-off-the-top/
 thumbnail_path: 2007/07/07OH03_795.jpg
 tags:
   - 2007-vandalia-oh

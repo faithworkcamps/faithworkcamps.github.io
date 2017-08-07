@@ -1,10 +1,7 @@
 ---
-id: 35
 title: If it Doesn't Fit, Get a Bigger Hammer
 date: 2009-07-27T03:28:00+00:00
-
 layout: post
-permalink: /2009/07/27/if-it-doesnt-fit-get-a-bigger-hammer/
 tags:
   - 2009-martinsburg-wv
 ---
