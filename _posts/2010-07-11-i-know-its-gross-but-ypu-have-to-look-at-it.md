@@ -4,7 +4,7 @@ date: 2010-07-11T21:48:34+00:00
 layout: post
 tags:
   - 2010-savannah-ga
-thumbnail_path: /2010/07/l_1600_1200_DEC3D3E6-9E7B-4203-87C2-DB988A8FAC9F.jpeg
+thumbnail_path: /2010/07/4.jpg
 ---
 This morning started off when Papa H and Big Jim headed to find the all important coffee&#8230; After making a few stops, they finally ended up at a grocery store and were told the coffee was not worth drinking. A man overheard the conversation and promptly told Papa H and Big Jim to follow him to the coffee promised land. They ended up at Quail Hallow Country Club (the coffee is delicious!) and Arnold Palmer&#8217;s buddy provided the coffee for our weary crew.
 
