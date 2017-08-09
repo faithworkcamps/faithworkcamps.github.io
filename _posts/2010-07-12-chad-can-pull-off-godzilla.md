@@ -2,6 +2,7 @@
 title: Chad can pull off Godzilla
 date: 2010-07-12T23:20:16+00:00
 layout: post
+thumbnail_path: 2010/07/5.jpg
 tags:
   - 2010-savannah-ga
 ---

@@ -2,6 +2,7 @@
 title: Tyler + J-Money = Josh
 date: 2010-07-15T23:22:35+00:00
 layout: post
+thumbnail_path: 2010/07/3.jpg
 tags:
   - 2010-savannah-ga
 ---

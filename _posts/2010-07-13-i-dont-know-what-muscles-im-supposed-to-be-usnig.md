@@ -4,7 +4,7 @@ date: 2010-07-13T23:37:41+00:00
 layout: post
 tags:
   - 2010-savannah-ga
-image: /assets/images/2010/07/l_500_375_07BCA48C-E105-4345-9E9B-2B5A31005350.jpeg
+thumbnail_path: 2010/07/l_500_375_07BCA48C-E105-4345-9E9B-2B5A31005350.jpeg
 ---
 Jeannie Mayo has been leading us each morning in our daily send off services. This morning, we started focusing on how our friends play an important role in our spiritual lives. As the day went on, we saw this lived out all about campus.
 
