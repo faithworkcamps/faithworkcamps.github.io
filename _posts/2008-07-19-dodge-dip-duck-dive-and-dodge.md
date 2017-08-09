@@ -2,6 +2,7 @@
 title: Dodge, Dip, Duck, Dive, and Dodge
 date: 2008-07-19T03:53:00+00:00
 layout: post
+thumbnail_path: 2008/07/5.jpg
 tags:
   - 2008-st-louis-mi
 ---

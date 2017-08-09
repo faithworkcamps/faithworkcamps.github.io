@@ -2,6 +2,7 @@
 title: We like it, We love it, We want some more of it!
 date: 2008-08-01T03:29:00+00:00
 layout: post
+thumbnail_path: 2008/07/7.jpg
 tags:
   - 2008-st-louis-mi
 ---

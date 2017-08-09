@@ -2,6 +2,7 @@
 title: 'This is the end'
 date: 2008-07-20T19:08:00+00:00
 layout: post
+thumbnail_path: 2008/07/6.jpg
 tags:
   - 2008-st-louis-mi
 ---

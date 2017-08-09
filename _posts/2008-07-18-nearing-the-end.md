@@ -2,6 +2,7 @@
 title: Nearing the End
 date: 2008-07-18T03:23:00+00:00
 layout: post
+thumbnail_path: 2008/07/4.jpg
 tags:
   - 2008-st-louis-mi
 ---

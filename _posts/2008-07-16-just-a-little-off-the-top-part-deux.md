@@ -2,6 +2,7 @@
 title: 'Just a little off the top&#8230;part deux'
 date: 2008-07-16T03:12:00+00:00
 layout: post
+thumbnail_path: 2008/07/2.jpg
 tags:
   - 2008-st-louis-mi
 ---

@@ -2,6 +2,7 @@
 title: Cat ladies and vicous dogs
 date: 2008-07-15T03:31:00+00:00
 layout: post
+thumbnail_path: 2008/07/1.jpg
 tags:
   - 2008-st-louis-mi
 ---
