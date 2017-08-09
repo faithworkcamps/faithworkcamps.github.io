@@ -2,6 +2,7 @@
 title: '&#8220;We Love You Tenderly&#8221;'
 date: 2009-07-29T04:01:00+00:00
 layout: post
+thumbnail_path: 2009/07/4.jpg
 tags:
   - 2009-martinsburg-wv
 ---

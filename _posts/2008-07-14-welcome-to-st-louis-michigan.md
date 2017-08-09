@@ -2,6 +2,7 @@
 title: Welcome to St. Louis...Michigan
 date: 2008-07-14T03:52:00+00:00
 layout: post
+thumbnail_path: 2008/07/8.jpg
 tags:
   - 2008-st-louis-mi
 ---

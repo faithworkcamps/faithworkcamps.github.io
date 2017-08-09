@@ -2,6 +2,7 @@
 title: If it Doesn't Fit, Get a Bigger Hammer
 date: 2009-07-27T03:28:00+00:00
 layout: post
+thumbnail_path: 2009/07/2.jpg
 tags:
   - 2009-martinsburg-wv
 ---

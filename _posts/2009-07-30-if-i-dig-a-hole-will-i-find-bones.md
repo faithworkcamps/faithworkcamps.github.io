@@ -2,6 +2,7 @@
 title: '&#8220;If I Dig a Hole, Will I Find Bones?&#8221;'
 date: 2009-07-30T04:17:00+00:00
 layout: post
+thumbnail_path: 2009/07/5.jpg
 tags:
   - 2009-martinsburg-wv
 ---

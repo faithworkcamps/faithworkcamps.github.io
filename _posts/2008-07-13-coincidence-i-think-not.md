@@ -2,6 +2,7 @@
 title: 'Coincidence, I think not!'
 date: 2008-07-13T03:13:00+00:00
 layout: post
+thumbnail_path: 2008/07/9.jpg
 tags:
   - 2008-st-louis-mi
 ---
