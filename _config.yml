@@ -1,5 +1,6 @@
 # Website settings
-url: "https://faithworkcamps.github.io"
+baseurl: "/"
+url: "http://faithworkcamps.github.io"
 
 # Internal nav
 nav:
