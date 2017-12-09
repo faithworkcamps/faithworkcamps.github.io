@@ -1,6 +1,6 @@
 # Faith Workcamps Home Page
 
-This is the code for the [Faith Workcamps Home Page](https://www.faithworkcamps.com).
+This is the code for the [Faith Workcamps Home Page](http://www.faithworkcamps.com).
 
 ![Faith Workcamps Home Page Screenshot](/assets/img/screenshots/faithworkcamps-homepage-screenshot.png)
 
