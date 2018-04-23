@@ -13,6 +13,8 @@ Forks and pull requests are welcome!
 
 1. Use Git to clone this repo.
 1. Make sure you have [Jekyll](http://jekyllrb.com/docs/installation/) installed.
+1. On linux systems, be sure to have both zlib1g-dev and nodejs installed. Debian example: `sudo apt-get install nodejs zlib1g-dev`
+1. Navigate to the repo folder.
 1. Just the first time: `bundle install`.
 1. To build the site and serve it: `bundle exec jekyll serve`.
 1. To test: `http://localhost:4000`.
@@ -28,21 +30,11 @@ documentation for more info.
 As an alternative to installing Ruby and Jekyll, if you're a user of
 [Docker](https://www.docker.com/) and [Docker
 Compose](https://docs.docker.com/compose/), you can run a Docker image of
-yevgeniy-brikman-homepage that has all the dependencies already setup for you.
-
-On Linux:
+faithworkcamps-homepage that has all the dependencies already setup for you.
 
 1. `git clone` this repo
 2. `docker-compose up`
 3. Go to `http://localhost:4000` to test
-
-On OS X, using the [docker-osx-dev](https://github.com/brikis98/docker-osx-dev)
-project:
-
-1. `git clone` this repo
-2. `docker-osx-dev`
-3. `docker-compose up`
-4. Go to `http://dockerhost:4000` to test
 
 
 
@@ -61,7 +53,7 @@ project:
    [Google Fonts](https://www.google.com/fonts) for styling.
 1. Using [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/),
    and [responsive-nav.js](http://responsive-nav.com/) for behavior.
-1. Added [Disqus](https://disqus.com/websites/) as a commenting system.
+1. Using [Disqus](https://disqus.com/websites/) as a commenting system.
 1. Using [UptimeRobot](http://uptimerobot.com/) and
    [Google Analytics](http://www.google.com/analytics/) for monitoring and
    metrics.
