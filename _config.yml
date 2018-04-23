@@ -58,3 +58,39 @@ gems:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
+
+# Prose.io
+prose:
+  rooturl: '_posts'
+  siteurl: 'http://faithworkcamps.com'
+  relativeLinks: 'http://faithworkcamps.com/links.jsonp'
+  site: 'http://faithworkcamps.com/links.jsonp'
+  media: 'assets/img/2018/06'
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Enter Title Here"
+      - name: "date"
+        field:
+          element: "hidden"
+          value: CURRENT_DATETIME
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "thumbnail_path"
+        field:
+          element: "text"
+          label: "Thumbnail Path"
+          value: "2018/06/"
+      - name: "tags"
+        field:
+          element: "hidden"
+          value: "2018"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "published"
+          value: "true"
