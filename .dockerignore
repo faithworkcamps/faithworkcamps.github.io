@@ -1,0 +1,10 @@
+*.gem
+*.lock
+.bundle
+_site/
+.sass-cache
+CNAME
+test-site/
+.DS_Store
+.AppleDouble
+.LSOverride
