@@ -15,7 +15,7 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-name: "Faith Workcamps"
+title: "Faith Workcamps"
 description: "Building faithful youth."
 thumbnail_path: "fw-logo.png"
 website_repo_url: "https://github.com/faithworkcamps/faithworkcamps.github.io"
@@ -54,7 +54,7 @@ repository: faithworkcamps/faithworkcamps.github.io
 future: true
 
 # Plugins (GitHub Pages only support a few)
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
