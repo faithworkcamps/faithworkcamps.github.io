@@ -1,5 +1,6 @@
 # Website settings
 url: "http://www.faithworkcamps.com"
+title: "Faith Workcamps"
 
 # Internal nav
 nav:
@@ -14,7 +15,7 @@ nav:
     rss: "/feed.xml"
 
 # Bio settings
-title: "Faith Workcamps"
+name: "Faith Workcamps"
 description: "Building faithful youth."
 thumbnail_path: "fw-logo.png"
 website_repo_url: "https://github.com/faithworkcamps/faithworkcamps.github.io"
