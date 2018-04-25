@@ -19,8 +19,9 @@ sudo apt-get install software-properties-common
 sudo apt-add-repository -y ppa:rael-gc/rvm
 sudo apt-get update
 sudo apt-get install rvm
+sudo reboot
 ```
-3. Install Ruby. `bundle install`
+3. Install Ruby. `rvm install ruby`
 4. Install Bundler. `gem install bundler`
 5. Just the first time: `bundle install`
 6. To build the site and serve it: `bundle exec jekyll serve -H 0.0.0.0 -P 4000`
