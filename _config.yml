@@ -1,6 +1,5 @@
 # Website settings
-baseurl: "/"
-url: "http://faithworkcamps.com"
+url: "http://www.faithworkcamps.com"
 
 # Internal nav
 nav:
