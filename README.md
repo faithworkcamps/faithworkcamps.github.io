@@ -60,7 +60,7 @@ Compose](https://docs.docker.com/compose/), you can run a Docker image that has 
    [Google Fonts](https://www.google.com/fonts) for styling.
 1. Using [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/),
    and [responsive-nav.js](http://responsive-nav.com/) for behavior.
-1. Using [Disqus](https://disqus.com/websites/) as a commenting system.
+1. Using [Staticman](https://staticman.net/) for comments.
 1. Using [UptimeRobot](http://uptimerobot.com/) and
    [Google Analytics](http://www.google.com/analytics/) for monitoring and
    metrics.
