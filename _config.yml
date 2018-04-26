@@ -50,7 +50,7 @@ sass:
   style: :compressed
 highlighter: rouge
 timezone: 'America/New_York'
-repository: faithworkcamps/faithworkcamps.github.io
+repository: "faithworkcamps/faithworkcamps.github.io"
 future: true
 
 # Plugins (GitHub Pages only support a few)
@@ -94,3 +94,7 @@ prose:
           element: "checkbox"
           label: "published"
           value: "true"
+
+# Staticman comments (see staticman.yml for configuration).
+staticman:
+  branch: "master"
