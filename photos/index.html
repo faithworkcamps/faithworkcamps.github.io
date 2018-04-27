@@ -4,10 +4,25 @@ title: "Faith Workcamps: Photos"
 header_title: Photos
 include_header: photos_header.html
 nav_item: photos
+images:
+- image_path: /assets/img/2018/06/grit_thumb.jpg
+  title: 2018
+  link: https://www.icloud.com/sharedalbum/#B1955Z2WM0yl7w
 extra_scripts:
   - /assets/js/photos.js
   - http://picasaweb.google.com/data/feed/base/user/115413779268512374473?kind=album&amp;access=public&amp;thumbsize=288c&amp;alt=json-in-script&amp;callback=showAlbums
 ---
+
+  {% for image in page.images %}
+    <div class="col sm-col-6 pr2 mt2 mb2">
+      <a href="{{ image.link }}" target="_blank" class="block button button-transparent button-narrow border border-light-gray px1 py1">
+        <img src="{{ image.image_path }}" alt="{{ image.title}}" class="valign-middle lazyload"/>
+		<div class="px1 pt1 center">
+          <span class="mt0 mb0 h6 header-font">{{ image.title}}</span>
+        </div>
+      </a>
+    </div>
+  {% endfor %}
 
 <script type="text/underscore-template" id="albums-template">
   <% _.each(albums, function(album) { %>
@@ -28,4 +43,3 @@ extra_scripts:
     <p>Loading...</p>
   </div>
 </div>
-
