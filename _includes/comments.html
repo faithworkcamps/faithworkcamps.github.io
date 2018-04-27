@@ -22,7 +22,7 @@
   <p>
     {% for comment in comments %}
     <div class="mx-auto mb2 pt2 pb2">
-      <img class="avatar left mr2" src="https://www.gravatar.com/avatar/{{ comment[1].email }}?d=mm&s=60" alt="{{ comment[1].name }}">
+      <img class="avatar left mr2 border border-light-gray circle lazyloaded" src="https://www.gravatar.com/avatar/{{ comment[1].email }}?d=mm&s=68" alt="{{ comment[1].name }}">
       <h4 class="m0">{{ comment[1].name }}</h4>
 	  <time class="gray h6">{{ comment[1].date | date: "%B %d, %Y  %I:%M %p" }}</time>
       <p class="h3 mt0 mb0">{{ comment[1].message | markdownify }}</p>
