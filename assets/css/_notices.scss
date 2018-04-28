@@ -1,0 +1,86 @@
+/* ==========================================================================
+   NOTICE TEXT BLOCKS
+   ========================================================================== */
+
+/**
+ * Default Kramdown usage (no indents!):
+ * <div class="notice" markdown="1">
+ * #### Headline for the Notice
+ * Text for the notice
+ * </div>
+ */
+
+@mixin notice($notice-color) {
+  background-color: mix(#fff, $notice-color, 90%);
+  border-left: 0.25em solid mix(#fff, $notice-color, 50%);
+  margin: 2em 0;
+  padding: 1em;
+
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 1 !important; // override
+    margin-bottom: 0.75em;
+    margin-top: 0 !important; // override
+  }
+
+  @at-root .page-content #{&} a {
+    border-bottom-width: 2px;
+    box-shadow: none !important; // override
+
+    &:hover {
+      background-color: transparent !important; // override
+    }
+  }
+
+  a {
+    color: mix(#000, $notice-color, 25%) !important; // override
+  }
+
+  table {
+    margin-top: 1.5em;
+  }
+
+  thead {
+    border-color: mix(#fff, $notice-color, 70%);
+  }
+
+  tr {
+    &:not(:last-child) {
+      border-color: mix(#fff, $notice-color, 70%);
+    }
+  }
+
+  /* remove space at end */
+  > *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/* default notice */
+.notice {
+  @include notice(#00638a);
+}
+
+/* info notice */
+.notice--info {
+  @include notice(#1c7cd6);
+}
+
+/* warning notice */
+.notice--warning {
+  @include notice(#fcc419);
+}
+
+/* success notice */
+.notice--success {
+  @include notice(#40c057);
+}
+
+/* danger notice */
+.notice--danger {
+  @include notice(#f03e3e);
+}
+

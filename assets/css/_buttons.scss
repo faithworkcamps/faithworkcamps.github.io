@@ -6,3 +6,11 @@
 .button-height {
   line-height: 2.125rem;
 }
+
+  /* disabled */
+  .btn--disabled {
+    box-shadow: none;
+    cursor: not-allowed;
+    opacity: 0.65;
+    pointer-events: none;
+}
