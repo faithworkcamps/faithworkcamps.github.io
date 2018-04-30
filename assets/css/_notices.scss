@@ -12,9 +12,10 @@
 
 @mixin notice($notice-color) {
   background-color: mix(#fff, $notice-color, 90%);
-  border-left: 0.25em solid mix(#fff, $notice-color, 50%);
-  margin: 2em 0;
-  padding: 1em;
+  border-top: 0.15em solid mix(#fff, $notice-color, 50%);
+  border-bottom: 0.15em solid mix(#fff, $notice-color, 50%);
+  margin: 1em 0;
+  padding: .5em;
 
   h2,
   h3,

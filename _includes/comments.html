@@ -39,17 +39,12 @@
     <textarea class="block col-12 mb2 field" rows="4" name="fields[message]" placeholder="Comment. Markdown is accepted." style="width:100%" required></textarea>
     <input class="block col-12 mb2 field" type="text" name="fields[name]" placeholder="Name" required/>
     <input class="block col-12 mb2 field" type="email" name="fields[email]" placeholder="Email address (will not be public)"/>
-
-    <input id="form-subscribe" type="checkbox" name="options[subscribe]" value="email" class="checkbox">
-    <label for="form-subscribe" class="form__field checkbox__label">I want to be notified of new comments</label>
-
-    <br>
-    <button type="submit" id="comment-form-submit" class="button mt2 white bg-button-blue rounded">Submit</button>
 <!-- Start comment form alert messaging -->
-        <p class="hidden js-notice">
-          <span class="js-notice-text"></span>
-        </p>
+    <p class="hidden js-notice">
+      <span class="js-notice-text"></span>
+    </p>
 <!-- End comment form alert messaging -->
+    <button type="submit" id="comment-form-submit" class="button mt0 white bg-button-blue rounded">Submit</button>
    </form>
   </div>
 </section>
