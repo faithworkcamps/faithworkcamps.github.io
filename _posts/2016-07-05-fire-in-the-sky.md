@@ -3,8 +3,9 @@ title: Fire in the Sky
 date: 2016-07-05T00:26:36+00:00
 layout: post
 thumbnail_path: 2016/07/workcamp-2016-day-3.jpg
+videoID: 173426883
 tags:
   - 2016-cedar-grove-wv
 ---
-{% include vimeo.html id=173426883 %}
+{% include vimeo.html id=page.videoID %}
 Day 3
