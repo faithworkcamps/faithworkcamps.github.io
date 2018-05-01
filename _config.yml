@@ -1,5 +1,5 @@
 # Website settings
-url: "http://www.faithworkcamps.com"
+url: "https://www.faithworkcamps.com"
 title: "Faith Workcamps"
 
 # Internal nav
@@ -62,9 +62,9 @@ plugins:
 # Prose.io
 prose:
   rooturl: '_posts'
-  siteurl: 'http://faithworkcamps.com'
-  relativeLinks: 'http://faithworkcamps.com/links.jsonp'
-  site: 'http://faithworkcamps.com/links.jsonp'
+  siteurl: 'https://www.faithworkcamps.com'
+  relativeLinks: 'https://faithworkcamps.com/links.jsonp'
+  site: 'https://faithworkcamps.com/links.jsonp'
   media: 'assets/img/2018/06'
   metadata:
     _posts:

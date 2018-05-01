@@ -1,6 +1,6 @@
 # Faith Workcamps Home Page
 
-This is the code for the [Faith Workcamps Home Page](http://www.faithworkcamps.com).
+This is the code for the [Faith Workcamps Home Page](https://www.faithworkcamps.com).
 
 ![Faith Workcamps Home Page Screenshot](/assets/img/screenshots/faithworkcamps-homepage-screenshot.png)
 
@@ -54,6 +54,7 @@ Compose](https://docs.docker.com/compose/), you can run a Docker image that has 
    [GitHub Pages Gem](https://help.github.com/articles/using-jekyll-with-pages/)
    and only Jekyll plugins that are
    [available on GitHub Pages](https://help.github.com/articles/repository-metadata-on-github-pages/).
+1. Free SSL and CDN provided by [Cloudflare](https://www.cloudflare.com/).
 1. Using [Basscss](http://www.basscss.com/), [Sass](http://sass-lang.com/),
    [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/),
    [Hint.css](http://kushagragour.in/lab/hint/),and
