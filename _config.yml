@@ -35,7 +35,7 @@ contact_urls:
   fpc:
     url: "https://faithchurchemmaus.org"
     label: "Faith"
-    icon: "fire"
+    icon: "plus-square"
   github:
     url: "https://github.com/faithworkcamps/"
     label: "GitHub"
