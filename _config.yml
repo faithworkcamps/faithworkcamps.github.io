@@ -33,9 +33,9 @@ contact_urls:
     label: "Facebook"
     icon: "facebook-square"
   fpc:
-    url: "https://github.com/faithworkcamps/faithworkcamps.github.io"
+    url: "https://faithchurchemmaus.org"
     label: "Faith"
-    icon: "slideshare"
+    icon: "fire"
   github:
     url: "https://github.com/faithworkcamps/"
     label: "GitHub"
