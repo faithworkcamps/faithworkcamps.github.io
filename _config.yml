@@ -58,6 +58,7 @@ plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
 
 # Prose.io
 prose:
