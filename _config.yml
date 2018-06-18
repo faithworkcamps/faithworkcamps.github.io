@@ -89,7 +89,7 @@ prose:
       - name: "tags"
         field:
           element: "hidden"
-          value: "2018"
+          value: "2018-virginia-beach-va"
       - name: "published"
         field:
           element: "checkbox"
