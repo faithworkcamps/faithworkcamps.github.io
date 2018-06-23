@@ -86,6 +86,11 @@ prose:
           element: "text"
           label: "Thumbnail Path"
           value: "2018/06/"
+      - name: "videoID"
+        field:
+          element: "text"
+          label: "Video ID"
+          value: ""
       - name: "tags"
         field:
           element: "hidden"
