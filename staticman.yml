@@ -40,7 +40,7 @@ comments:
   # Whether entries need to be appproved before they are published to the main
   # branch. If set to `true`, a pull request will be created for your approval.
   # Otherwise, entries will be published to the main branch automatically.
-  moderation: false
+  moderation: true
 
   # Name of the site. Used in notification emails.
   name: "faithworkcamps.com"
@@ -76,6 +76,14 @@ comments:
     enabled: true
     siteKey: "6LdzolUUAAAAAM-UqFDg3VdEW8ho34DVqYtkHvRb"
     secret: "vdJhnuo2yahTg8y6WjByGIq/tsQcD7yXJbf55DoD6ZEsq/verg7TQp8sNG3ESwjSpf2XOrqkK501aJ57Jzn8FNg25zf432j8GUYNL/x9m0lbOpw2B9P4XxvJTVu8oVwkjgAcenkQo0BbAAxfOpBwbaPyV7KQR74+ndZWRDkJVPk="
+    
+  akismet:
+    enabled: true
+    author: "nuyiwiy"
+    authorEmail: "nuyiwiy@smart-mail.info"
+    authorUrl: "http://www.faithworkcamps.com"
+    content: ""
+    type: "comment"
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.

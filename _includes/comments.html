@@ -33,7 +33,7 @@
 
 <!-- Comment form -->
   <h3><small>LEAVE A COMMENT</small></h3>
-   <form id="comments" class="form" action="https://api.staticman.net/v2/entry/{{ site.repository }}/{{ site.staticman.branch }}/comments" method="post">
+   <form id="comments" class="form" action="https://dev.staticman.net/v3/entry/github/{{ site.repository }}/{{ site.staticman.branch }}/comments" method="post">
     <input type="hidden" name="options[slug]" value="{{ page.slug }}">
    
     <textarea class="block col-12 mb2 field" rows="4" name="fields[message]" placeholder="Comment. Markdown is accepted." style="width:100%" required></textarea>
