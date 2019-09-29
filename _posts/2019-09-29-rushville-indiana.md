@@ -4,7 +4,7 @@ layout: post
 date: '2019-09-29 01:24 -0400'
 thumbnail_path: 2019/09/29.jpg
 published: true
-title: 2019 - Rushville, Indiana
+title: Rushville
 videoID: '2019/20190929.mov'
 ---
 
