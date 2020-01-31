@@ -1,24 +1,20 @@
-FROM ruby:2.4
+FROM ruby:2.4.2
 
-RUN apt-get update \
-  && apt-get install -y \
-    git \
-    locales \
-    make \
-    nodejs
+# Copy the Gemfile and Gemfile.lock into the image and run bundle install in a
+# way that will be cached
+WORKDIR /tmp
+ADD Gemfile Gemfile
+ADD Gemfile.lock Gemfile.lock
+RUN bundle install
 
-COPY . /src/gh/pages-gem
+# Copy source
+RUN mkdir -p /src
+VOLUME ["/src"]
+WORKDIR /src
+COPY . /src
 
-RUN \
-  bundle config local.github-pages /src/gh/pages-gem && \
-  bundle install --gemfile=/src/gh/pages-gem/Gemfile
+# Jekyll runs on port 4000 by default
+EXPOSE 4000
 
-RUN \
-  echo "en_US UTF-8" > /etc/locale.gen && \
-  locale-gen en-US.UTF-8
-
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US.UTF-8
-ENV LC_ALL en_US.UTF-8
-
-CMD ["jekyll", "serve", "-H", "0.0.0.0", "-P", "4000"]
+# Run jekyll serve
+CMD ["./jekyll-serve.sh"]
