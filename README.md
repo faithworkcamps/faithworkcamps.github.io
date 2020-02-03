@@ -23,7 +23,7 @@ sudo chmod +x /usr/bin/docker-compose
 sudo reboot
 ```
 2. `git clone` this repo and navigate to it
-3. Generate a new [https://github.com/settings/tokens/new][personal access token]. Select only the scope repo/public_repo. Copy the generated key.
+3. Generate a new [personal access token](https://github.com/settings/tokens/new). Select only the scope repo/public_repo. Copy the generated key.
 4. In your repo folder create a new file called .env (`nano .env`) with the following content: JEKYLL_GITHUB_TOKEN=KEY_COPIED_IN_STEP_3
 5. `docker-compose up`
 6. To test: `http://SERVER_IPADDRESS:4000`
@@ -64,6 +64,7 @@ documentation for more info.
 1. Free SSL and CDN provided by [Cloudflare](https://www.cloudflare.com/).
 1. Using [Basscss](http://www.basscss.com/), [Sass](http://sass-lang.com/), [Font Awesome Icons](http://fortawesome.github.io/Font-Awesome/icons/), [Hint.css](http://kushagragour.in/lab/hint/), and [Google Fonts](https://www.google.com/fonts) for styling.
 1. Using [jQuery](https://jquery.com/), [lazySizes](http://afarkas.github.io/lazysizes/), and [responsive-nav.js](http://responsive-nav.com/) for behavior.
+1. Using [Thumbsup](https://github.com/thumbsup/thumbsup) and [our theme](https://github.com/faithworkcamps/theme-cards) for photo gallery generation.
 1. Using [Staticman](https://staticman.net/) for comments.
 1. Using [UptimeRobot](http://uptimerobot.com/) and [Google Analytics](http://www.google.com/analytics/) for monitoring and metrics.
 1. Using [Starefossen's Alpine Docker Image](https://github.com/Starefossen/docker-github-pages) for the docker install.
