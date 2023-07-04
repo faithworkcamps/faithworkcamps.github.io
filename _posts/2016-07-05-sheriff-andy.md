@@ -7,5 +7,5 @@ videoID: 2016/20160705.mp4
 tags:
   - 2016-cedar-grove-wv
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 4

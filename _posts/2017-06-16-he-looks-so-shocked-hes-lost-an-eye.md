@@ -7,5 +7,5 @@ videoID: 2017/20170616.mp4
 tags:
   - 2017-wintersville-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Days 1/2

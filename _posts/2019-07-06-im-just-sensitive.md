@@ -8,5 +8,5 @@ title: I'm Just Sensitive
 videoID: '2019/20190706.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 1

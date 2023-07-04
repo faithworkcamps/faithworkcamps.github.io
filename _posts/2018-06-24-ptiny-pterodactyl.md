@@ -7,5 +7,5 @@ published: true
 title: Ptiny Pterodactyl
 videoID: '2018/20180624.mp4'
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 2

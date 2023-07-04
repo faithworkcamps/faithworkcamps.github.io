@@ -7,5 +7,5 @@ videoID: 2011/20110710.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 2 and we&#8217;ve arrived at our home for the week, Vail Middle School.

@@ -7,5 +7,5 @@ videoID: 2011/20110715.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 We finished up at our sites today and said goodbye to our residents and work crews. A Bittersweet day for sure. Tomorrow we head to Pittsburgh for the day before returning home on Sunday. Check our Jayme and Rachel&#8217;s recap of day 7!

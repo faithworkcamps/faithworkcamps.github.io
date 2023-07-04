@@ -8,5 +8,5 @@ title: Crosby Country
 videoID: '2022/20220710.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 1

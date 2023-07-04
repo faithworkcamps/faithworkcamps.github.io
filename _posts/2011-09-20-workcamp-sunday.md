@@ -8,5 +8,5 @@ videoID: 2011/20110920.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 The video recap of this summer&#8217;s trip to Middletown, OH.

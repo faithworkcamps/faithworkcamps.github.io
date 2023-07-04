@@ -7,5 +7,5 @@ videoID: 2013/20131024.mp4
 tags:
   - 2013-muskegon-mi
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 created at http://animoto.com

@@ -8,5 +8,5 @@ title: Rushville, Indiana
 videoID: '2019/20190929.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 A slideshow recapping the 2019 workcamp trip to Rushville, Indiana.

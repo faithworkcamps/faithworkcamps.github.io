@@ -7,5 +7,5 @@ videoID: 2016/20160704.mov
 tags:
   - 2016-cedar-grove-wv
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 3

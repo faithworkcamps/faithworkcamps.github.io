@@ -7,5 +7,5 @@ published: true
 title: We Can Only Hit Snooze Once
 videoID: '2018/20180626.mp4'
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 4

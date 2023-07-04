@@ -8,5 +8,5 @@ title: Save the Clock Tower
 videoID: '2021/20210709.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 7

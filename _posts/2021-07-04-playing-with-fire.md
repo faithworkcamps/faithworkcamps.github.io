@@ -8,5 +8,5 @@ title: Playing With Fire
 videoID: '2021/20210704.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 2

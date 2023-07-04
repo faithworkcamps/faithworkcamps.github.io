@@ -8,5 +8,5 @@ title: Pass the Gumbo
 videoID: '2022/20220713.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 4

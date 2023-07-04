@@ -7,5 +7,5 @@ videoID: 2011/20110714.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Today, we were back to the sites for a full day of work. A few crews are finishing up at their sites and we all hope to have a productive day tomorrow. Tonight, Grady and Papa H will walk you through their highlights from Day 6.

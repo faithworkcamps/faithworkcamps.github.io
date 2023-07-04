@@ -7,5 +7,5 @@ videoID: 2011/20110711.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 3 &#8211; First day on the work sites so we met our residents and saw the job descriptions in person. This camp seems to have a really great group of hard-working youth. We had a slight problem this evening when a bathroom flooded&#8230; The girls room needed to be moved after a few hours of sanitation were completed. In the end, their room was fine but have a piece of mind as they sleep in their new room! What surprises will tomorrow bring?!?!

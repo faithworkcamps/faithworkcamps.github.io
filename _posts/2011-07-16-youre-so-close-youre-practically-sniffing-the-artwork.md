@@ -7,5 +7,5 @@ videoID: 2011/20110716.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 8 saw the first leg of our trip home and we are spending the night in Pitsburgh, PA! Watch as Mark and Lynn walk us through the day!

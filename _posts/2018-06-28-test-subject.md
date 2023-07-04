@@ -7,5 +7,5 @@ published: true
 title: Test Subject
 videoID: '2018/20180628.mp4'
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 6

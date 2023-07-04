@@ -8,5 +8,5 @@ title: Brian's Pencil
 videoID: '2019/20190708.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 3

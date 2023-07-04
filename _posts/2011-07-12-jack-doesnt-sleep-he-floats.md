@@ -7,5 +7,5 @@ videoID: 2011/20110712.mp4
 tags:
   - 2011-middletown-oh
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 4 &#8211; Today saw a very productive day on the work sites, scorching heat, an emotional evening program, and much, much more&#8230; Check out tonight&#8217;s video which opens with Christy, Karen, and Jackie&#8217;s &#8220;Wacky Workcamp Top 10!&#8221;

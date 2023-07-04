@@ -8,5 +8,5 @@ title: Beefy & Beautiful
 videoID: '2018/20180701.mp4'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 7

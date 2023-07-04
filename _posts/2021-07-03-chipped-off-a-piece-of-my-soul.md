@@ -8,5 +8,5 @@ title: Chipped Off A Piece Of My Soul
 videoID: '2021/20210703.mov'
 ---
 
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 1

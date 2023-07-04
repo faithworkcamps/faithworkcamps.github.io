@@ -7,5 +7,5 @@ videoID: 2015/20150704.mp4
 tags:
   - 2015-rushville-in
 ---
-{% include aws.html id=page.videoID poster=page.thumbnail_path %}
+{% include azure.html id=page.videoID poster=page.thumbnail_path %}
 Day 1
