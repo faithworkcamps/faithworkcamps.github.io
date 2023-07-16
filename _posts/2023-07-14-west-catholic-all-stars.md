@@ -4,7 +4,7 @@ layout: post
 date: '2023-07-14 23:33 -0400'
 thumbnail_path: 2023/07/14.jpeg
 published: true
-title: Title
+title: West Catholic All-Stars
 videoID: '2023/20230714.mov'
 ---
 
