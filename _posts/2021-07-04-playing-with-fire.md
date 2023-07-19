@@ -1,7 +1,7 @@
 ---
 tags: 2021-dexter-me
 layout: post
-date: '2023-07-04 23:55 -0400'
+date: '2021-07-04 23:55 -0400'
 thumbnail_path: 2021/07/04.jpeg
 published: true
 title: Playing With Fire
