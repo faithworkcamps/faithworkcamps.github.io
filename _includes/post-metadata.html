@@ -18,15 +18,4 @@
       {% endfor %}
     </span>
   {% endif %}
-  {% if page.include_comments or layout.include_comments %}
-    <span class="mr1 nowrap">
-      <i class="fa fa-comments"></i>
-      {% if page.id == include.post.id %}
-        {% assign comment_url_base = "" %}
-      {% else %}
-        {% capture comment_url_base %}{{ include.post.url }}/{% endcapture %}
-      {% endif %}
-      <a href="{{ comment_url_base }}#comments-link">{% if page.id %}{{ site.data.comments[page.slug] | size }} Comment{% if site.data.comments[page.slug].size != 1 %}s{% endif %}{% else %}{{ site.data.comments[post.slug] | size }} Comment{% if site.data.comments[post.slug].size != 1 %}s{% endif %}{% endif %}</a>
-    </span>
-  {% endif %}
 </div>
