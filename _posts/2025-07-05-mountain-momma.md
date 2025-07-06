@@ -4,7 +4,7 @@ layout: post
 date: '2025-07-05 11:17 -0400'
 thumbnail_path: 2025/07/05.jpeg
 published: true
-title: East Bank, WV
+title: Mountain Momma
 videoID: '2025/20250705.mov'
 ---
 
