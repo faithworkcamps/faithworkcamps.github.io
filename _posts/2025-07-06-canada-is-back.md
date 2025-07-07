@@ -9,4 +9,4 @@ videoID: '2025/20250706.mov'
 ---
 
 {% include azure.html id=page.videoID poster=page.thumbnail_path %}
-Day 1
+Day 2
