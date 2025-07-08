@@ -4,7 +4,7 @@ layout: post
 date: '2025-07-07 23:11 -0400'
 thumbnail_path: 2025/07/07.jpeg
 published: false
-title: Day 3
+title: Natural Grease
 videoID: '2025/20250707.mov'
 ---
 
