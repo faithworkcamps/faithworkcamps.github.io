@@ -1,10 +1,10 @@
 ---
 tags: 2025-east-bank-wv
 layout: post
-date: '2025-07-08 23:11 -0400'
+date: '2025-07-08 21:57 -0400'
 thumbnail_path: 2025/07/08.jpeg
-published: false
-title: Day 4
+published: true
+title: It's Rainin’ Sideways
 videoID: '2025/20250708.mov'
 ---
 
