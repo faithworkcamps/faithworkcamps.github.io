@@ -1,10 +1,10 @@
 ---
 tags: 2025-east-bank-wv
 layout: post
-date: '2025-07-09 23:11 -0400'
+date: '2025-07-09 21:54 -0400'
 thumbnail_path: 2025/07/09.jpeg
-published: false
-title: Day 5
+published: true
+title: Wet Virginia
 videoID: '2025/20250709.mov'
 ---
 
