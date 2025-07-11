@@ -1,10 +1,10 @@
 ---
 tags: 2025-east-bank-wv
 layout: post
-date: '2025-07-10 23:11 -0400'
+date: '2025-07-10 21:50 -0400'
 thumbnail_path: 2025/07/10.jpeg
-published: false
-title: Day 6
+published: true
+title: Joanne's Makin' Bank
 videoID: '2025/20250710.mov'
 ---
 
