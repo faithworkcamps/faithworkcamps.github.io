@@ -4,7 +4,7 @@ layout: post
 date: '2025-07-10 21:50 -0400'
 thumbnail_path: 2025/07/10.jpeg
 published: true
-title: Joanne's Makin' Bank
+title: Meatless Without a License
 videoID: '2025/20250710.mov'
 ---
 
