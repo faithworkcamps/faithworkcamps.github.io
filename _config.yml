@@ -23,15 +23,6 @@ website_repo_url: "https://github.com/faithworkcamps/faithworkcamps.github.io"
 
 # URLs
 contact_urls:
-  twitter:
-    url: "https://twitter.com/faithworkcamps"
-    label: "Twitter"
-    icon: "twitter-square"
-    username: "@faithworkcamps"
-  facebook:
-    url: "https://www.facebook.com/groups/32770546126/"
-    label: "Facebook"
-    icon: "facebook-square"
   fpc:
     url: "https://faithchurchemmaus.org"
     label: "Faith"
