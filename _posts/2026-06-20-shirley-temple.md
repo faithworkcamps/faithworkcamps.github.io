@@ -1,10 +1,10 @@
 ---
 tags: 2026-belle-wv
 layout: post
-date: '2026-06-20 22:30 -0400'
+date: '2026-06-20 22:56 -0400'
 thumbnail_path: 2026/06/20.jpeg
 published: true
-title: 
+title: Shirley Temple
 videoID: '2026/20260620.mov'
 ---
 
