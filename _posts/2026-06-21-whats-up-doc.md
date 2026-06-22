@@ -1,10 +1,10 @@
 ---
 tags: 2026-belle-wv
 layout: post
-date: '2026-06-21 22:30 -0400'
+date: '2026-06-21 22:37 -0400'
 thumbnail_path: 2026/06/21.jpeg
 published: true
-title: 
+title: What's Up Doc
 videoID: '2026/20260621.mov'
 ---
 
