@@ -1,10 +1,10 @@
 ---
 tags: 2026-belle-wv
 layout: post
-date: '2026-06-22 22:30 -0400'
+date: '2026-06-22 23:01 -0400'
 thumbnail_path: 2026/06/22.jpeg
 published: true
-title: 
+title: Schweddy Gym
 videoID: '2026/20260622.mov'
 ---
 
