@@ -1,10 +1,10 @@
 ---
 tags: 2026-belle-wv
 layout: post
-date: '2026-06-25 22:30 -0400'
+date: '2026-06-25 21:49 -0400'
 thumbnail_path: 2026/06/25.jpeg
 published: true
-title: 
+title: All Hale Henry
 videoID: '2026/20260625.mov'
 ---
 
